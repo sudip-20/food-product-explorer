@@ -4,10 +4,6 @@
 
 Food Product Explorer is a comprehensive web application that leverages the OpenFoodFacts API to provide users with detailed information about food products. The application allows users to search, filter, and explore a wide range of food items with an intuitive and responsive interface.
 
-## Links
-Project has been hosted on vercel [click to visit](https://food-product-explorer-orpin.vercel.app).
-Demo Video: https://drive.google.com/file/d/1-Qoxp28Ul-x53_3FhR0iooPQBaClNidt/view?usp=sharing
-
 ## 🌟 Features
 
 ### 1. Product Listing
@@ -51,7 +47,7 @@ Demo Video: https://drive.google.com/file/d/1-Qoxp28Ul-x53_3FhR0iooPQBaClNidt/vi
 
 1. Clone the repository
 ```bash
-git clone https://github.com/U-Shashank/Food-Product-Explorer.git
+git clone https://github.com/sudip-20/food-product-explorer.git
 
 cd Food-Product-Explorer
 ```
